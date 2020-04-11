@@ -2,6 +2,7 @@
 #Recode/Edit? Create new branch and start pull requests/Fork so i know who's editing my script
 #And adding a new author for that
 #Made by MrAnonyWolf since March 12 2020 half with lots of mistakes and debugging/fixing lol
+#Coming soon for linux OS
  N="\033[1;0m"
  Bl="\033[0;30m"
  DGr="\033[1;30m"
